@@ -1,3 +1,4 @@
 module.exports = {
-    mode: 'production'
+    mode: 'production',
+    entry: './src/app.js'
 };
